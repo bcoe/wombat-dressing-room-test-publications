@@ -1,0 +1,15 @@
+{
+  "name": "wombat-dressing-room-test-publications",
+  "version": "1.0.0",
+  "description": "",
+  "repository": "bcoe/test-release-please",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.3.3"
+  }
+}
