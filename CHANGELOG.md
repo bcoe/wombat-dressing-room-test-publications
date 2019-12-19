@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://www.github.com/bcoe/wombat-dressing-room-test-publications/compare/v2.1.0...v3.0.0) (2019-12-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* this is fake (#8)
+
+### Features
+
+* this is fake ([#8](https://www.github.com/bcoe/wombat-dressing-room-test-publications/issues/8)) ([367d225](https://www.github.com/bcoe/wombat-dressing-room-test-publications/commit/367d2254302289aa337eecd2c5f4cd36372c3f16))
+
 ## [2.1.0](https://www.github.com/bcoe/wombat-dressing-room-test-publications/compare/v2.0.1...v2.1.0) (2019-12-19)
 
 
