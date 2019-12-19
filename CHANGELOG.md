@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://www.github.com/bcoe/wombat-dressing-room-test-publications/compare/v2.0.1...v2.1.0) (2019-12-19)
+
+
+### Features
+
+* feature release ([#6](https://www.github.com/bcoe/wombat-dressing-room-test-publications/issues/6)) ([4907c3e](https://www.github.com/bcoe/wombat-dressing-room-test-publications/commit/4907c3e0a2e4bbcc5b2d1b00db00a95073a14510))
+
 ### [2.0.1](https://www.github.com/bcoe/wombat-dressing-room-test-publications/compare/v2.0.0...v2.0.1) (2019-12-19)
 
 
