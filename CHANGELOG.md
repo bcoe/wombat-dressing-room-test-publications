@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.0.1](https://www.github.com/bcoe/wombat-dressing-room-test-publications/compare/v3.0.0...v3.0.1) (2019-12-20)
+
+
+### Bug Fixes
+
+* create now fix ([#10](https://www.github.com/bcoe/wombat-dressing-room-test-publications/issues/10)) ([2bef3ed](https://www.github.com/bcoe/wombat-dressing-room-test-publications/commit/2bef3ed7bbc70820472b6ee95e6e65122c39f7ec))
+
 ## [3.0.0](https://www.github.com/bcoe/wombat-dressing-room-test-publications/compare/v2.1.0...v3.0.0) (2019-12-19)
 
 
