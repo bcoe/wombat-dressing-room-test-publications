@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.0](https://www.github.com/bcoe/wombat-dressing-room-test-publications/compare/v3.0.1...v3.1.0) (2019-12-20)
+
+
+### Features
+
+* add config for publishing ([#12](https://www.github.com/bcoe/wombat-dressing-room-test-publications/issues/12)) ([998b601](https://www.github.com/bcoe/wombat-dressing-room-test-publications/commit/998b601c6944b82329e06c7378fbb645c3ed4e75))
+
 ### [3.0.1](https://www.github.com/bcoe/wombat-dressing-room-test-publications/compare/v3.0.0...v3.0.1) (2019-12-20)
 
 
