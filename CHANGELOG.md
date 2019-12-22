@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.4.0](https://www.github.com/bcoe/wombat-dressing-room-test-publications/compare/v4.3.0...v4.4.0) (2019-12-22)
+
+
+### Features
+
+* add a bunch of files, test publish ([#22](https://www.github.com/bcoe/wombat-dressing-room-test-publications/issues/22)) ([24d3dae](https://www.github.com/bcoe/wombat-dressing-room-test-publications/commit/24d3daed677adf65289bab8e8d18620341ff4670))
+
 ## [4.3.0](https://www.github.com/bcoe/wombat-dressing-room-test-publications/compare/v4.2.0...v4.3.0) (2019-12-22)
 
 
