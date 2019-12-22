@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.2.0](https://www.github.com/bcoe/wombat-dressing-room-test-publications/compare/v4.1.0...v4.2.0) (2019-12-22)
+
+
+### Features
+
+* fail due to otp ([#18](https://www.github.com/bcoe/wombat-dressing-room-test-publications/issues/18)) ([a2ec81c](https://www.github.com/bcoe/wombat-dressing-room-test-publications/commit/a2ec81ca565cc2d2c4aabc42295428f0d8589b04))
+
 ## [4.1.0](https://www.github.com/bcoe/wombat-dressing-room-test-publications/compare/v4.0.0...v4.1.0) (2019-12-22)
 
 
