@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.5.0](https://www.github.com/bcoe/wombat-dressing-room-test-publications/compare/v4.4.0...v4.5.0) (2019-12-22)
+
+
+### Features
+
+* are your permissions worked out ([#24](https://www.github.com/bcoe/wombat-dressing-room-test-publications/issues/24)) ([dd86e43](https://www.github.com/bcoe/wombat-dressing-room-test-publications/commit/dd86e43331044971087ed3b87d1abb0a74cb4f27))
+
 ## [4.4.0](https://www.github.com/bcoe/wombat-dressing-room-test-publications/compare/v4.3.0...v4.4.0) (2019-12-22)
 
 
